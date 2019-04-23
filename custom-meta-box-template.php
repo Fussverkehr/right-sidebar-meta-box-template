@@ -6,7 +6,7 @@ Plugin Name: Right Sidebar Meta Box Template
 Plugin URI: http://fussverkehr.ch/
 Description: Enables TinyMCE for the richt_sidebar meta.
 Author: Dominik Bucheli Fussverkehr Schweiz
-Version: 1.0
+Version: 1.01
 Author URI: http://fussverkehr.ch/
 GitHub Plugin URI: https://github.com/Fussverkehr/right-sidebar-meta-box-template
 */
